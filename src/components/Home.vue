@@ -32,7 +32,7 @@ useChangedEndpointChanged,
   <div class="greetings">
     <h1 class="green"> Azure Front Door Demo</h1>
     <h3>
-      Welcome to this sample app for azure front door testing
+      Welcome to this sample app for azure front door - Preview
 
     </h3>
     <label>API BaseURL(https://example.com)</label>
